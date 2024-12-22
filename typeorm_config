@@ -1,0 +1,6 @@
+----------------------  migration typeorm  ---------------
+
+command to create migration:
+
+npm run typeorm migration:create -n CreateProducts
+
